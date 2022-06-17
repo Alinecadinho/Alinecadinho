@@ -1,4 +1,5 @@
-### Olá! eu sou Aline Cadinho [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-developer/)
+### Olá! eu sou Aline Cadinho 👩🏻‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-developer/)
 
 Comecei a estudar programação do zero em 2022! Estou em transição de área, e sinto um prazer enorme a cada parte nova que eu entendo! Foi a melhor decisão que já tomei, finalmente encontrei algo que amo fazer e agora estou louca para começar a trabalhar na área! Estou cursando Analise e Desenvolvimento de Sistemas (Conclusão em 2024)Tenho identificação com a parte de Back-end.
 
