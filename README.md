@@ -3,7 +3,8 @@
 
 Comecei a estudar programação do zero em 2022! Estou em transição de área, e sinto um prazer enorme a cada parte nova que eu entendo! Foi a melhor decisão que já tomei, finalmente encontrei algo que amo fazer e agora estou louca para começar a trabalhar na área! Estou cursando Analise e Desenvolvimento de Sistemas (Conclusão em 2024)Tenho identificação com a parte de Back-end.
 
-![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=alinecadinho&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecadinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=alinecadinho&show_icons=true&theme=onedark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecadinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
